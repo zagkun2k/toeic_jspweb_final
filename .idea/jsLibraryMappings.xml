@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/toiec-web" libraries="{all, bootstrap, font-awesome, jquery, jquery-ui, jquery.validate, limonte-sweetalert2, sweetalert, sweetalert2, tether}" />
+  </component>
+</project>

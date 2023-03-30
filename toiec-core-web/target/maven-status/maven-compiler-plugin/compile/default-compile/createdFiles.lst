@@ -1,0 +1,6 @@
+com\truonggiang\core\web\utils\RequestUtil.class
+com\truonggiang\core\web\common\WebConstant.class
+com\truonggiang\core\web\command\AbstractCommand.class
+com\truonggiang\core\web\utils\SingletonServiceUtil.class
+com\truonggiang\core\web\utils\WebCommonUtil.class
+com\truonggiang\core\web\utils\FormUtil.class

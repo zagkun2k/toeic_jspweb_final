@@ -1,0 +1,6 @@
+com\truonggiang\core\dto\RoleDTO.class
+com\truonggiang\core\dto\ListenGuidelineDTO.class
+com\truonggiang\core\dto\ImportUserDTO.class
+com\truonggiang\core\dto\CheckLoginDTO.class
+com\truonggiang\core\dto\JqueryDTO.class
+com\truonggiang\core\dto\UserDTO.class
